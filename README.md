@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Keshav 👋</h1>
+<p align="center"><strong>Automation & Robotics student exploring AI apps and interactive web interfaces.</strong></p>
 
-<!--
-**keshavjangid0229-source/keshavjangid0229-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently building
 
-Here are some ideas to get you started:
+### [CampusGPT](https://github.com/keshavjangid0229-source/campusgpt-google)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An AI chat app for students with Google sign-in and a hosted AI integration.
+
+## Selected projects
+
+| Project | What it does |
+| --- | --- |
+| [3D Bike Model](https://github.com/keshavjangid0229-source/3d-intractive-bike-model) | An interactive 3D bike model in the browser. |
+| [Expense Tracker](https://github.com/keshavjangid0229-source/expense-tracker) | A web app for keeping track of expenses. |
+| [KeshavOS](https://github.com/keshavjangid0229-source/keshavos-site) | My personal web project. |
+
+**Tools I work with** · TypeScript, JavaScript, Next.js, Flutter, and Supabase
