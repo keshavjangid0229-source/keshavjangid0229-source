@@ -1,18 +1,16 @@
-<h1 align="center">Hi, I’m Keshav 👋</h1>
-<p align="center"><strong>Automation & Robotics student exploring AI apps and interactive web interfaces.</strong></p>
+# Hi, I'm Keshav Jangid
 
-## Currently building
+I'm a B.Tech Automation & Robotics student exploring student-facing AI tools and interactive web experiences.
 
-### [CampusGPT](https://github.com/keshavjangid0229-source/campusgpt-google)
-
-An AI chat app for students with Google sign-in and a hosted AI integration.
-
-## Selected projects
+## Projects
 
 | Project | What it does |
 | --- | --- |
-| [3D Bike Model](https://github.com/keshavjangid0229-source/3d-intractive-bike-model) | An interactive 3D bike model in the browser. |
-| [Expense Tracker](https://github.com/keshavjangid0229-source/expense-tracker) | A web app for keeping track of expenses. |
-| [KeshavOS](https://github.com/keshavjangid0229-source/keshavos-site) | My personal web project. [Open KeshavOS](https://keshavos-site.vercel.app). |
+| [CampusGPT](https://github.com/keshavjangid0229-source/campusgpt-google) | An AI workspace for chatting with syllabus PDFs and generating study notes. |
+| [KeshavOS](https://github.com/keshavjangid0229-source/keshavos-site) | A desktop-inspired personal portfolio with interactive windows and a Guestbook. |
+| [3D Sports Bike Showcase](https://github.com/keshavjangid0229-source/3d-intractive-bike-model) | A Three.js viewer with orbit controls, color changes and component views. |
+| [Expense Tracker](https://github.com/keshavjangid0229-source/expense-tracker) | A web app for logging and reviewing spending, backed by Supabase. |
 
-**Tools I work with** · TypeScript, JavaScript, Next.js, Flutter, and Supabase
+**Tools I work with** · TypeScript, JavaScript, React, Next.js, Three.js and Supabase
+
+[Open my portfolio](https://keshavos-site.vercel.app/)
